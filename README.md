@@ -86,8 +86,8 @@ The analysis clearly indicates a mismatch between rider demand and driver availa
 
 ---
 
-## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
+This project is licensed under the MIT License. You can read about the [MIT License](https://opensource.org/licenses/MIT) for details. Essentially, it allows others to use, modify, and distribute your work as long as they include the original license and copyright notice.
 
 ---
 
